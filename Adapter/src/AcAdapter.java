@@ -1,0 +1,3 @@
+class AcAdapter extends Dengen{
+
+}
